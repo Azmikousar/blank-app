@@ -15,6 +15,9 @@ menu = st.sidebar.selectbox(
 
 if menu == "Home":
     st.title("🏠 Home")
+    st.title("🤖 AI MultiTool Studio")
+
+    st.write("Welcome to your AI project"
 
 elif menu == "Chatbot":
     st.title("🤖 Chatbot")
